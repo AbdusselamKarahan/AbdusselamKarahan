@@ -34,7 +34,7 @@ Hey! I'm Abdusselam — a passionate cybersecurity learner who enjoys:
 ## 🚀 Highlight Project
 
 ### 🕵️ OSINT Ninja Tool
-> <img align="right" width="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lyMTNpN2VnN3AxeGtzMGU2aHp2dnZ2enJ5dXdyc3R6dThmdW9xZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/on9lrQ8XG4oStEVcHW/giphy.gif"  /> Your own recon ninja — silent but effective.
+> <img align="right" width="125" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lyMTNpN2VnN3AxeGtzMGU2aHp2dnZ2enJ5dXdyc3R6dThmdW9xZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/on9lrQ8XG4oStEVcHW/giphy.gif"  /> Your own recon ninja — silent but effective.
 
 - Automates OSINT reconnaissance workflows 🥷  
 - Uses public APIs and scraping for open-source intelligence  
