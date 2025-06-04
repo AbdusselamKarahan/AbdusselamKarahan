@@ -4,14 +4,14 @@
 </p>
 
 <p align="center">
-  🛡️ Cybersecurity Enthusiast | 🛠️ Full Stack Developer | 🕵️ OSINT & CTF Player
+                                 🛡️ Cybersecurity Researcher 
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hmd2EyNzF0ZTc0ajBvdTQ3bGFweG56Y3IyNTdnOXAxMm9tZ2lrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJoqZWcFDAbvy/giphy.gif" />
+<img align="right" width="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hmd2EyNzF0ZTc0ajBvdTQ3bGFweG56Y3IyNTdnOXAxMm9tZ2lrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJoqZWcFDAbvy/giphy.gif" />
 
 Hey! I'm Abdusselam — a passionate cybersecurity learner who enjoys:
 
@@ -26,7 +26,7 @@ Hey! I'm Abdusselam — a passionate cybersecurity learner who enjoys:
 ## 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,react,html,css,mysql,linux,bash,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,linux,bash,git,github,vscode" />
 </p>
 
 ---
@@ -34,7 +34,7 @@ Hey! I'm Abdusselam — a passionate cybersecurity learner who enjoys:
 ## 🚀 Highlight Project
 
 ### 🕵️ OSINT Ninja Tool
-> <img align="right" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lyMTNpN2VnN3AxeGtzMGU2aHp2dnZ2enJ5dXdyc3R6dThmdW9xZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/on9lrQ8XG4oStEVcHW/giphy.gif"  /> Your own recon ninja — silent but effective.
+> <img align="right" width="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lyMTNpN2VnN3AxeGtzMGU2aHp2dnZ2enJ5dXdyc3R6dThmdW9xZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/on9lrQ8XG4oStEVcHW/giphy.gif"  /> Your own recon ninja — silent but effective.
 
 - Automates OSINT reconnaissance workflows 🥷  
 - Uses public APIs and scraping for open-source intelligence  
@@ -70,7 +70,3 @@ Hey! I'm Abdusselam — a passionate cybersecurity learner who enjoys:
   <img src="https://komarev.com/ghpvc/?username=abdusselamkarahan&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
----
-
-> “Security is not a product, but a process.” – Bruce Schneier  
-> “The quieter you become, the more you are able to hear.” – Rumi  
