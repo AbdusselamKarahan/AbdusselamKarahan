@@ -67,6 +67,7 @@ Hey! I'm Abdusselam — a passionate cybersecurity learner who enjoys:
   <a href="mailto:abdusselamkrhn@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=abdusselamkarahan&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
