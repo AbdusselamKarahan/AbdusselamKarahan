@@ -62,7 +62,7 @@ Hey! I'm Abdusselam — a passionate cybersecurity learner who enjoys:
 
 <p align="center">
   <a href="https://linkedin.com/in/abdusselamkarahan">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:abdusselamkrhn@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
