@@ -1,107 +1,113 @@
-<h1 align="center">Hey there 👋, I'm Abdusselam Karahan</h1>
+<h1 align="center">Hi there 👋, I'm Abdusselam Karahan</h1>
 <p align="center">
-  🧑‍💻 Cybersecurity Explorer • 🛠️ Full Stack Dev • 🕵️ CTF Addict • 🧠 Knowledge Sharer
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Siber%20Vatan-Yavuzlar%20Takımı-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CTF%20Player-%F0%9F%92%BB-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web%20Security-%F0%9F%94%92-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PHP%20%7C%20React%20Developer-%F0%9F%94%A5-yellowgreen?style=for-the-badge" />
+  🛡️ Cybersecurity Enthusiast | 🛠️ Full Stack Developer | 🕵️ OSINT & CTF Player
 </p>
 
 ---
 
-## 👨‍🚀 About Me
+## 🧑‍💻 About Me
 
-I'm a curious mind with a passion for secure coding, clean UIs, and cyber warfare simulations ⚔️.  
-From designing admin dashboards to chasing XSS and SQLi payloads in CTFs — I thrive in that sweet spot between code and chaos.
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### 🔥 What gets me excited:
-- Bug hunting & finding the unexpected 🐛
-- Building full-featured web systems from scratch
-- Turning complex web vulnerabilities into educational content
-- Collaborating with top-tier cyber teams like **Yavuzlar** 🇹🇷
+Hey! I'm Abdusselam — a passionate cybersecurity learner who enjoys:
 
----
-
-## 🧪 Yavuzlar Takımı'nda Neler Yapıyorum?
-
-🔸 CTF'lere katılarak gerçek dünya siber saldırı senaryoları çözüyorum  
-🔸 Web, pwn ve reverse engineering kategorilerinde aktif görev alıyorum  
-🔸 Takım içi eğitimlerde web zafiyetleri sunumları ve uygulamalı örnekler hazırlıyorum  
-🔸 Payload koleksiyonları ve özel exploit scriptleri geliştiriyorum  
-🔸 Takım ruhu, görev paylaşımı ve savaş stratejisi: Bunlar bizde temel 🧠⚔️
+- 🕷️ Hunting web vulnerabilities in CTFs  
+- 🔐 Building secure and functional web apps  
+- 🧠 Teaching and sharing technical knowledge  
+- 🧪 Creating automation tools for OSINT investigations  
+- 🧑‍🤝‍🧑 Collaborating with **Yavuzlar Takımı** in siber güvenlik projeleri
 
 ---
 
-## 💼 My Tech Stack
-
-<table>
-<tr>
-  <td><strong>💻 Languages</strong></td>
-  <td>PHP, JavaScript, HTML/CSS, SQL, Bash</td>
-</tr>
-<tr>
-  <td><strong>🧰 Tools & Frameworks</strong></td>
-  <td>React.js, TailwindCSS, Bootstrap, PDO, VSCode</td>
-</tr>
-<tr>
-  <td><strong>🛡️ Security Playground</strong></td>
-  <td>XSS, SQLi, SSTI, LFI, RCE, IDOR, CTFs, Burp Suite, OWASP ZAP</td>
-</tr>
-<tr>
-  <td><strong>📁 Dev Tools</strong></td>
-  <td>Git & GitHub, Postman, XAMPP, Linux</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Noteworthy Projects
-
-### 🧠 CTF Web Exploitation Guide
-📌 A comprehensive knowledge base of web-based attack vectors  
-📄 Markdown-based, soon in PDF & blog format  
-🧪 From basic XSS to chained RCE payloads with real CTF examples  
-💬 Turkish & English payload notes with practical tips  
-
----
-
-### 🛒 Restaurant Management System (PHP)
-- Role-based system (Admin, Company, Customer)
-- Coupon, basket, comments, ratings, order management
-- Admin panel updates sync with customer panel in real time
-- All developed from scratch with PDO-based database layer
-
----
-
-### 💻 Custom Web Shell Interface
-- GUI-based file & folder management (add, delete, edit)
-- Command execution + command helper mode (`--help`)
-- Recursive search from root directory
-- UX-first: no terminal? no problem.
-
----
-
-## 🌱 Currently Learning
-- Exploit development & binary analysis  
-- Advanced JavaScript security patterns  
-- DevSecOps integrations (CI/CD pipelines with security in mind)
-
----
-
-## 📫 Let's Connect!
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/abdusselamkarahan)
-- 📧 Mail: `abdusselamkrhn@gmail.com` 
-
----
+## 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdusselamkarahan&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://skillicons.dev/icons?i=php,js,react,html,css,mysql,linux,bash,git,github,vscode" />
 </p>
 
+---
+
+## 🚀 Projects I'm Proud Of
+
+### 🕵️ OSINT Ninja Tool
+> <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="30" /> Your very own reconnaissance ninja.
+
+- Automates OSINT reconnaissance with style 🥷  
+- Uses public APIs and web scraping for open-source intel  
+- CLI + GUI interface for flexible usage  
+- Generates detailed, investigator-ready reports
+
+---
+
+### 🛒 Restaurant Management System
+> For hungry devs and happy customers 🍽️
+
+- Role-based panel: Admin | Company | Customer  
+- Dynamic menus, coupons, orders, reviews  
+- Real-time sync between admin and frontend  
+- Built entirely from scratch in PHP with PDO  
+
+---
+
+### 🖥️ Web Shell Interface
+> Manage files like a ninja hacker... but legally 😎
+
+- Recursive file/folder operations  
+- Command execution with helper docs  
+- Sleek interface and modern design  
+- Search from root directory
+
+---
+
+### 📘 Web CTF Exploitation Guide
+> CTF'de kaybolanlara yol gösterir 🔍
+
+- Covers 20+ vulnerabilities (XSS, SQLi, LFI, etc.)  
+- Real CTF examples with payloads  
+- Markdown format, soon to be PDF/blog
+
+---
+
+## 🎯 Yavuzlar Takımı'nda Neler Yaptım?
+
+- Web ve OSINT odaklı CTF görevleri  
+- Sunumlar: OAuth 2.0 / Web Güvenliği  
+- Zafiyet senaryoları hazırlama ve çözümleme  
+- Payload & exploit koleksiyonu geliştirme  
+- Takım içi rehberlik ve eğitim desteği
+
+---
+
+## ✨ Fun Side
+
 <p align="center">
-  <b>“The quieter you become, the more you are able to hear.” – Rumi</b>
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="200"/>
 </p>
+
+- 🎮 CTF’lerde rakip kovalamaca  
+- 🧩 Zafiyet çözmek meditasyon gibi  
+- ☕ PHP debugging = bol kahve  
+- 💣 Burp Suite & ZAP = favori oyuncaklarım
+
+---
+
+## 📬 Reach Out!
+
+<p align="center">
+  <a href="https://linkedin.com/in/abdusselamkarahan">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:abdusselam.karahan@example.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=abdusselamkarahan&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+> "The quieter you become, the more you are able to hear." – Rumi  
+> “Security is not a product, but a process.” – Bruce Schneier
