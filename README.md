@@ -1,7 +1,8 @@
-<h1 align="center">Hi there 👋, I'm Abdusselam Karahan</h1>
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9nZ3kxODAyMjllMGE0MzJsbGg1bmplcnpwOWE2MWQ1YzFjeHNvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRoLGgwE4xTQYTxyJg/giphy.gif" width="100" />
-</p>
+# Hi there 👋, I'm Abdusselam Karahan
+
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9nZ3kxODAyMjllMGE0MzJsbGg1bmplcnpwOWE2MWQ1YzFjeHNvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRoLGgwE4xTQYTxyJg/giphy.gif" width="200" alt="Welcome GIF"/>
+</div>
 
 <p align="center">
   🛡️ Cybersecurity Enthusiast | 🛠️ Full Stack Developer | 🕵️ OSINT & CTF Player
@@ -11,7 +12,9 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hmd2EyNzF0ZTc0ajBvdTQ3bGFweG56Y3IyNTdnOXAxMm9tZ2lrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJoqZWcFDAbvy/giphy.gif" />
+<div align="right">
+  <img width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hmd2EyNzF0ZTc0ajBvdTQ3bGFweG56Y3IyNTdnOXAxMm9tZ2lrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJoqZWcFDAbvy/giphy.gif" alt="Coding GIF"/>
+</div>
 
 Hey! I'm Abdusselam — a passionate cybersecurity learner who enjoys:
 
@@ -33,8 +36,13 @@ Hey! I'm Abdusselam — a passionate cybersecurity learner who enjoys:
 
 ## 🚀 Highlight Project
 
-### 🕵️ OSINT Ninja Tool
-> <img align="right" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lyMTNpN2VnN3AxeGtzMGU2aHp2dnZ2enJ5dXdyc3R6dThmdW9xZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/on9lrQ8XG4oStEVcHW/giphy.gif"  /> Your own recon ninja — silent but effective.
+### ��️ OSINT Ninja Tool
+
+<div align="right">
+  <img width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lyMTNpN2VnN3AxeGtzMGU2aHp2dnZ2enJ5dXdyc3R6dThmdW9xZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/on9lrQ8XG4oStEVcHW/giphy.gif" alt="OSINT GIF"/>
+</div>
+
+Your own recon ninja — silent but effective.
 
 - Automates OSINT reconnaissance workflows 🥷  
 - Uses public APIs and scraping for open-source intelligence  
@@ -47,7 +55,9 @@ Hey! I'm Abdusselam — a passionate cybersecurity learner who enjoys:
 
 > Active member of the **Yavuzlar Cybersecurity Team** under Siber Vatan initiative.
 
-<img align="right" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2EyZHMxenVzYnc4OWUyeWdpb3d3dzNqYXlhcjU5cm51MW5ieWkwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u4iAWHVEtq3KLao/giphy.gif" />
+<div align="right">
+  <img width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2EyZHMxenVzYnc4OWUyeWdpb3d3dzNqYXlhcjU5cm51MW5ieWkwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u4iAWHVEtq3KLao/giphy.gif" alt="Security GIF"/>
+</div>
 
 - Conducted CTF challenges focusing on Web and OSINT  
 - Vulnerability research and custom payload development  
