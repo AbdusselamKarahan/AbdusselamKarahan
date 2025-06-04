@@ -4,22 +4,27 @@
 </p>
 
 <p align="center">
-                                 🛡️ Cybersecurity Researcher 
+  🛡️ Cybersecurity Researcher | Web Security Enthusiast | OSINT Automation Advocate  
+</p>
+
+<p align="center">
+  Passionate about discovering vulnerabilities, building secure applications, and empowering security teams with effective tools.
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 Featured Project: OSINT Ninja Tool
 
-<img align="right" width="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hmd2EyNzF0ZTc0ajBvdTQ3bGFweG56Y3IyNTdnOXAxMm9tZ2lrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJoqZWcFDAbvy/giphy.gif" />
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lyMTNpN2VnN3AxeGtzMGU2aHp2dnZ2enJ5dXdyc3R6dThmdW9xZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/on9lrQ8XG4oStEVcHW/giphy.gif" width="150" align="right" />
+  
+  [🔗 Check out the GitHub repo here!](https://github.com/AbdusselamKarahan/OSINT-Ninja-Tool)  
+</p>
 
-Hey! I'm Abdusselam — a passionate cybersecurity learner who enjoys:
-
-- 🕷️ Hunting web vulnerabilities in CTFs  
-- 🔐 Building secure and functional web apps  
-- 🧠 Teaching and sharing technical knowledge  
-- 🧪 Creating automation tools for OSINT investigations  
-- 🧑‍🤝‍🧑 Collaborating on security research with **Yavuzlar Takımı**
+- Automates open-source intelligence (OSINT) reconnaissance workflows with efficiency and precision 🥷  
+- Combines public APIs and web scraping to gather valuable intel  
+- Provides both CLI and GUI for versatile usage  
+- Generates investigator-ready detailed reports rapidly
 
 ---
 
@@ -31,43 +36,33 @@ Hey! I'm Abdusselam — a passionate cybersecurity learner who enjoys:
 
 ---
 
-## 🚀 Highlight Project
+## 🛡️ Active Role in Yavuzlar Team (Siber Vatan)
 
-### 🕵️ OSINT Ninja Tool
-> <img align="right" width="125" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lyMTNpN2VnN3AxeGtzMGU2aHp2dnZ2enJ5dXdyc3R6dThmdW9xZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/on9lrQ8XG4oStEVcHW/giphy.gif"  /> Your own recon ninja — silent but effective.
+<p align="right">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2EyZHMxenVzYnc4OWUyeWdpb3d3dzNqYXlhcjU5cm51MW5ieWkwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u4iAWHVEtq3KLao/giphy.gif" width="220" />
+</p>
 
-- Automates OSINT reconnaissance workflows 🥷  
-- Uses public APIs and scraping for open-source intelligence  
-- Flexible CLI + GUI interface  
-- Generates investigator-ready reports with speed and precision  
-
----
-
-## 🛡️ Yavuzlar Team (Siber Vatan)
-
-> Active member of the **Yavuzlar Cybersecurity Team** under Siber Vatan initiative.
-
-<img align="right" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2EyZHMxenVzYnc4OWUyeWdpb3d3dzNqYXlhcjU5cm51MW5ieWkwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u4iAWHVEtq3KLao/giphy.gif" />
-
-- Conducted CTF challenges focusing on Web and OSINT  
-- Vulnerability research and custom payload development  
-- Delivered technical presentations (e.g., OAuth, Web Security)  
-- Created and contributed to internal training content  
-- Helped mentor team members on application-layer exploitation  
-- Participated in web security courses and hands-on labs  
+- Led CTF challenges focused on Web Application Security and OSINT techniques  
+- Conducted in-depth vulnerability research and developed custom payloads  
+- Delivered technical presentations on topics like OAuth 2.0 and advanced Web Security  
+- Authored and contributed to team training materials and guides  
+- Mentored team members on exploitation methodologies and best practices  
+- Completed multiple advanced web security courses and hands-on labs to deepen expertise
 
 ---
 
-## 📬 Reach Out!
+## 📬 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/abdusselamkarahan">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://linkedin.com/in/abdusselamkarahan" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:abdusselamkrhn@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  &nbsp;&nbsp;
+  <a href="mailto:abdusselamkrhn@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=abdusselamkarahan&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=abdusselamkarahan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
 
