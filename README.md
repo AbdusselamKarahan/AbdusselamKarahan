@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Abdusselam Karahan</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/HQVpG8B6T2b1hJUC4z/giphy.gif" width="100" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9nZ3kxODAyMjllMGE0MzJsbGg1bmplcnpwOWE2MWQ1YzFjeHNvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRoLGgwE4xTQYTxyJg/giphy.gif" width="100" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" />
+<img align="right" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hmd2EyNzF0ZTc0ajBvdTQ3bGFweG56Y3IyNTdnOXAxMm9tZ2lrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJoqZWcFDAbvy/giphy.gif" />
 
 Hey! I'm Abdusselam — a passionate cybersecurity learner who enjoys:
 
@@ -47,7 +47,7 @@ Hey! I'm Abdusselam — a passionate cybersecurity learner who enjoys:
 
 > Active member of the **Yavuzlar Cybersecurity Team** under Siber Vatan initiative.
 
-<img align="right" width="250" src="https://media.giphy.com/media/wgFWLRiND4bkyYR4hv/giphy.gif" />
+<img align="right" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2EyZHMxenVzYnc4OWUyeWdpb3d3dzNqYXlhcjU5cm51MW5ieWkwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u4iAWHVEtq3KLao/giphy.gif" />
 
 - Conducted CTF challenges focusing on Web and OSINT  
 - Vulnerability research and custom payload development  
@@ -64,8 +64,8 @@ Hey! I'm Abdusselam — a passionate cybersecurity learner who enjoys:
   <a href="https://linkedin.com/in/abdusselamkarahan">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="mailto:abdusselam.karahan@example.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
+  <a href="mailto:abdusselamkrhn@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=abdusselamkarahan&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
