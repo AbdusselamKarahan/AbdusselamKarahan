@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Abdusselam Karahan</h1>
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9nZ3kxODAyMjllMGE0MzJsbGg1bmplcnpwOWE2MWQ1YzFjeHNvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRoLGgwE4xTQYTxyJg/giphy.gif" width="100" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9nZ3kxODAyMjllMGE0MzJsbGg1bmplcnpwOWE2MWQ1YzFjeHNvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRoLGgwE4xTQYTxyJg/giphy.gif" width="200" />
 </p>
 
 <p align="center">
