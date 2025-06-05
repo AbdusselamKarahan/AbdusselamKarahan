@@ -43,7 +43,7 @@ Hey! I'm Abdusselam — a passionate cybersecurity learner who enjoys:
 
 ---
 
-## 🛡️ Yavuzlar Team (Siber Vatan)
+##  Yavuzlar Team (Siber Vatan)
 
 > Active member of the **Yavuzlar Cybersecurity Team** under Siber Vatan initiative.
 
