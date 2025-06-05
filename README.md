@@ -58,6 +58,16 @@ Hey! I'm Abdusselam — a passionate cybersecurity learner who enjoys:
 
 ---
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdusselamKarahan&show_icons=true&theme=tokyonight" alt="stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdusselamKarahan&layout=compact&theme=tokyonight" alt="top langs" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdusselamKarahan&theme=tokyonight" alt="streak" />
+</p>
+
+
 ## 📬 Reach Out!
 
 <p align="center">
